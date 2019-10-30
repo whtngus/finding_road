@@ -1,2 +1,2 @@
 # finding_road
-COMPASS 대회
+COMPAS 대회
